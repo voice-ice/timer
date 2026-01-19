@@ -60,5 +60,8 @@
     color: #FF0000A3;
     margin-top: 0;
     margin-bottom: 0;
-
+    padding: 0;
+    border: none;
+    font: inherit;
+    background-color: transparent;
 }
