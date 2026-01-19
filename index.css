@@ -1,0 +1,23 @@
+.body {
+    background-color:#CD59CF ;
+}
+
+.switcher-container {
+    background-color: #FFFFFF;
+    width: 110px;
+    height: 64px;
+    border-radius: 20px;
+    margin-left: 85px;
+    margin-top: 9px; 
+
+}
+
+.timer-container {
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    width: 470px;
+    height: 400px;
+    margin-top: 32px;
+    margin-left: 85px;
+}
+
