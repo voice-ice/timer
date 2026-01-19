@@ -35,3 +35,30 @@
     height: 32px;
 
 }
+
+.timer-text_container {
+    padding-left: 48px;
+    padding-right: 32px;
+    padding-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+
+.timer-text {
+    font-weight: 700;
+    font-size: 20px;
+    font-style: Bold;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.timer-reset {
+    font-size: 16px;
+    color: #FF0000A3;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
