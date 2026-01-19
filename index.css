@@ -9,6 +9,9 @@
     border-radius: 20px;
     margin-left: 85px;
     margin-top: 9px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 
@@ -21,3 +24,14 @@
     margin-left: 85px;
 }
 
+.switcher-timer {
+    width: 32px;
+    height: 32px;
+    padding-right: 13px;
+}
+
+.switcher-clock {
+    width: 32px;
+    height: 32px;
+
+}
